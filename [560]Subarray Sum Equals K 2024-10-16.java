@@ -27,7 +27,31 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        
+        int sum=0;
+        int count=0;
+        //创建哈希表,第一个Integer是前缀和,第二个integer是出现次数
+        HashMap<Integer,Integer> arr_sum = new HashMap();
+        arr_sum.put(0,1);
+
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
+            if(arr_sum.containsKey(sum-k))
+            {
+                count+= arr_sum.get(sum-k);
+            }
+            if(arr_sum.containsKey(sum))
+            {
+                arr_sum.put(sum,arr_sum.get(sum)+1);
+            }
+            else
+            {
+                arr_sum.put(sum,1);
+            }
+        }
+
+
+
+        return count;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

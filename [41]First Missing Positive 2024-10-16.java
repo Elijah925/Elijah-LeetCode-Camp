@@ -43,7 +43,7 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        // 排序数组
+        // 排序数组 sort方法时间复杂度为logN, 需要优化
         Arrays.sort(nums);
         int minPos = Integer.MAX_VALUE;
         // 遍历寻找数组中的最小正整数
