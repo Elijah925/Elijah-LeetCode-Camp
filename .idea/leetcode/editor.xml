@@ -69,6 +69,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[567]Permutation in String.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/doc/content/[567]Permutation in String.md" />
+              <option name="frontendQuestionId" value="leetcode.com567" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[567]Permutation in String.java" />
+              <option name="titleSlug" value="permutation-in-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[76]Minimum Window Substring.java">
           <value>
             <LeetcodeEditor>
