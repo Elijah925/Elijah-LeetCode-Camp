@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[49]Group Anagrams.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/doc/content/[49]Group Anagrams.md" />
+              <option name="frontendQuestionId" value="leetcode.com49" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[49]Group Anagrams.java" />
+              <option name="titleSlug" value="group-anagrams" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[567]Permutation in String.java">
           <value>
             <LeetcodeEditor>
