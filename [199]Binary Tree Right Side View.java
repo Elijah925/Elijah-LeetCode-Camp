@@ -57,7 +57,9 @@ class Solution {
                 take = 0;
                 push = que.size();
             }
-
+            // 递归操作思路 查找每层高度,高于之前出现过右节点的高度
+            //https://www.youtube.com/watch?v=3Qjm1iX5dw8&ab_channel=FitCoder
+            
             // 二叉树操作
             // https://blog.csdn.net/weixin_44259720/article/details/121494049
         }
