@@ -157,6 +157,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[230]Kth Smallest Element in a BST.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/doc/content/[230]Kth Smallest Element in a BST.md" />
+              <option name="frontendQuestionId" value="leetcode.com230" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[230]Kth Smallest Element in a BST.java" />
+              <option name="titleSlug" value="kth-smallest-element-in-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Leetcode-camp/leetcode/editor/en/[24]Swap Nodes in Pairs.java">
           <value>
             <LeetcodeEditor>
